@@ -1,14 +1,14 @@
 {
-  "name": "bolt",
-  "description": "An AI Agent",
+  "name": "jimmyverse",
+  "description": "En AI-agent",
   "private": true,
   "license": "MIT",
   "sideEffects": false,
   "type": "module",
   "version": "1.0.0",
   "author": {
-    "name": "bolt.diy team",
-    "email": "maintainers@bolt.diy"
+    "name": "jimmyverse.dev team",
+    "email": "-"
   },
   "scripts": {
     "deploy": "npm run build && wrangler pages deploy",
